@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\bin\Debug\net9.0\06.SpecialNumber.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\bin\Debug\net9.0\06.SpecialNumber.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\bin\Debug\net9.0\06.SpecialNumber.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\bin\Debug\net9.0\06.SpecialNumber.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\bin\Debug\net9.0\06.SpecialNumber.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net9.0\refint\06.SpecialNumber.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net9.0\ref\06.SpecialNumber.dll
