@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\bin\Debug\net9.0\03.BiggestNum.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\bin\Debug\net9.0\03.BiggestNum.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\bin\Debug\net9.0\03.BiggestNum.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\bin\Debug\net9.0\03.BiggestNum.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\bin\Debug\net9.0\03.BiggestNum.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\obj\Debug\net9.0\03.BiggestNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\obj\Debug\net9.0\03.BiggestNum.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\obj\Debug\net9.0\03.BiggestNum.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\obj\Debug\net9.0\03.BiggestNum.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\obj\Debug\net9.0\03.BiggestNum.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\obj\Debug\net9.0\03.BiggestNum.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\obj\Debug\net9.0\refint\03.BiggestNum.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\obj\Debug\net9.0\03.BiggestNum.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\obj\Debug\net9.0\03.BiggestNum.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\03.BiggestNum\obj\Debug\net9.0\ref\03.BiggestNum.dll

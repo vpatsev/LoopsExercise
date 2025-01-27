@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\bin\Debug\net9.0\01.PowerOfNums.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\bin\Debug\net9.0\01.PowerOfNums.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\bin\Debug\net9.0\01.PowerOfNums.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\bin\Debug\net9.0\01.PowerOfNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\bin\Debug\net9.0\01.PowerOfNums.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\obj\Debug\net9.0\01.PowerOfNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\obj\Debug\net9.0\01.PowerOfNums.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\obj\Debug\net9.0\01.PowerOfNums.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\obj\Debug\net9.0\01.PowerOfNums.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\obj\Debug\net9.0\01.PowerOfNums.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\obj\Debug\net9.0\01.PowerOfNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\obj\Debug\net9.0\refint\01.PowerOfNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\obj\Debug\net9.0\01.PowerOfNums.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\obj\Debug\net9.0\01.PowerOfNums.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\LoopsExercise\01.PowerOfNums\obj\Debug\net9.0\ref\01.PowerOfNums.dll
